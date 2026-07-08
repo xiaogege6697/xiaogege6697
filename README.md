@@ -1,10 +1,19 @@
 # xiaogege6697
 
-我在做三类事情：**AI Agent 基础设施、可复用 Skills、领域知识系统**。
+我在构建一套 **local-first、可验收、可恢复、可长期演化的个人 Agent OS**。
 
-偏好目标导向、local-first、可验证、可长期维护的工程路径。复杂系统先找到窄腰，再决定需要多少功能。
+核心方向是：让 AI Agent 不只完成一次性任务，而是能在跨模型、跨窗口、跨项目的长期工作中保留目标、边界、证据和演化能力。
+
+我主要做三类事情：**AI Agent 基础设施、可复用 Skills、领域知识系统**。偏好目标导向、local-first、可验证、可长期维护的工程路径。复杂系统先找到窄腰，再决定需要多少功能。
 
 [个人主页](https://xiaogege6697.github.io) · [全部仓库](https://github.com/xiaogege6697?tab=repositories)
+
+## 推荐入口
+
+- [minimal-skill](https://github.com/xiaogege6697/minimal-skill) — 复杂项目守核方法论：目标、边界、稳定契约、证据与演化。
+- [codex-butler-relay](https://github.com/xiaogege6697/codex-butler-relay) — Codex 规划验收、Claude 自主执行的异步跨模型 Goal Loop。
+- [cognitive-path-comic-content](https://github.com/xiaogege6697/cognitive-path-comic-content) — 用视觉分镜控制认知路径，把复杂知识转化为连续漫画图文。
+- [tcm-db](https://github.com/xiaogege6697/tcm-db) — 本地优先的中医知识数据库、API 与证据系统。
 
 ## Agent 基础设施
 
@@ -14,6 +23,7 @@
 
 ## Skills 与工作流
 
+- [minimal-skill](https://github.com/xiaogege6697/minimal-skill) — 用最小拓扑守住复杂项目的身份、边界、稳定契约、证据与演化能力。
 - [cognitive-path-comic-content](https://github.com/xiaogege6697/cognitive-path-comic-content) — 用视觉分镜控制认知路径，将复杂知识转化为连续漫画图文。
 - [maintenance-capsule-skill](https://github.com/xiaogege6697/maintenance-capsule-skill) — 用目标导向窄腰结构保存、审计和刷新项目维护上下文。
 - [dream-skill](https://github.com/xiaogege6697/dream-skill) — 文件型记忆库的睡眠整理、巩固、关联与瘦身。
@@ -40,4 +50,3 @@
 - 让多 Agent 协作从“能跑”走向“可验收、可恢复、可维护”。
 - 把一次性工作流沉淀为能够复用和评测的 Skills。
 - 用小而稳定的数据结构承载长期知识，而不是堆叠不必要的复杂度。
-
